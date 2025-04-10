@@ -1,6 +1,5 @@
-# Products-
+# Products--Database
 
-### **Products-Database**  
 A **Tkinter-based GUI application** for managing product sales records. Stores product details (name, price, quantity, category, and sale date) and supports basic CRUD operations via a user-friendly interface.  
 
 **Key Features:**  
